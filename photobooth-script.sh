@@ -1,5 +1,5 @@
 #!/bin/sh
 
 cd /
-cd home/pi/Partage/Photobooth/
+cd home/pi/git_repos/photoboothdiy/
 sudo python camera.py
